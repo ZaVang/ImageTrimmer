@@ -1,0 +1,5 @@
+pillow>=9.0.0
+pyinstaller
+py2app
+windnd
+tkinterdnd2>=0.3.0
